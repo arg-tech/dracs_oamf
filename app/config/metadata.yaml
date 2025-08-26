@@ -1,0 +1,22 @@
+# General module information
+Name: "dracs"        # Name of the module
+description: "dracs description"
+Date: "2025-08-25"                    # Creation or last update date
+Originator: "Y E V H E N"                # Creator or author of the module
+License: "huyisense"                        # License type for this module
+
+# Task type and categorization
+AMF_Tag: dracs          # This acts as the task type for the module
+
+# Additional metadata
+Domain: "Momolog and Dialog" # Domain this module operates in
+Training Data: "None"   # Reference to the training data used
+Citation: "Dracs my ass"  # Reference or citation for this module
+
+# Variants of the module
+Variants:                             # List of variants available for this task
+  - default                          # Example variant (e.g., a lightweight version)
+
+# Input and output definitions
+Requires: xAIF                        # Input required by this module
+Outputs: xAIF                     # Output produced by this module

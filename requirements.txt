@@ -1,0 +1,10 @@
+Flask
+requests
+markdown2
+pandas
+xaif==0.3.2
+numpy==1.26.3
+dtaidistance==2.3.12
+tslearn==0.6.3
+tqdm==4.66.1
+networkx==3.2.1
